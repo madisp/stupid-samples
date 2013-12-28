@@ -1,0 +1,2 @@
+include ':stupid'
+include ':calculator'

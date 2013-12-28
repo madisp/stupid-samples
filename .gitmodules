@@ -1,0 +1,3 @@
+[submodule "stupid"]
+	path = stupid
+	url = https://github.com/madisp/stupid.git
