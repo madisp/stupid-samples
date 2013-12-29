@@ -1,4 +1,4 @@
-package com.madisp.stupid.samples;
+package com.madisp.stubid.sample;
 
 import com.madisp.stupid.ExpressionFactory;
 import com.madisp.stupid.Value;

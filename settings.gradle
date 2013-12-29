@@ -1,2 +1,2 @@
 include ':stupid'
-include ':calculator'
+include ':samples'
